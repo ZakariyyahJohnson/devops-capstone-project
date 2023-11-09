@@ -1,5 +1,4 @@
 # yaml-language-server: $schema='none'
-
 name: CI Build
 on:
   push:
